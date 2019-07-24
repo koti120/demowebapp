@@ -11,6 +11,7 @@
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
+      <h1 class="text-center">My job is runing automated</h1>
       <h2 class="text-center">Welcome to all leaders Koteswararao and SivaLakshmi .. on behalf of Infinito Solutions</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
